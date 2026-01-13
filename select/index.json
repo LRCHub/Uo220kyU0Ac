@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Boooooom Boooooom Bee!!",
+  "base_artist": "虹ヶ咲学園スクールアイドル同好会",
+  "createdAt": "2026-01-13T16:21:10.284474Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boooooom Boooooom Bee!!",
+      "artist": "虹ヶ咲学園スクールアイドル同好会",
+      "has_synced": false,
+      "path": "select/pl_01_Boooooom_Boooooom_Bee!!_虹ヶ咲学園スクールアイドル同好会.txt"
+    }
+  ]
+}
